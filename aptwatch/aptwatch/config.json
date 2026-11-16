@@ -1,0 +1,20 @@
+{
+  "site_name": "실거래 리포트",
+  "site_url": "https://YOUR_ID.github.io/aptwatch",
+  "months_back": 6,
+  "max_complex_pages_per_region": 300,
+  "new_high_window_days": 30,
+  "adsense_client": "",
+  "adsense_slot": "",
+  "contact_email": "your-email@example.com",
+  "regions": [
+    {"name": "서울 강남구", "code": "11680"},
+    {"name": "서울 서초구", "code": "11650"},
+    {"name": "서울 송파구", "code": "11710"},
+    {"name": "서울 마포구", "code": "11440"},
+    {"name": "서울 성동구", "code": "11200"},
+    {"name": "성남시 분당구", "code": "41135"},
+    {"name": "대구 수성구", "code": "27260"},
+    {"name": "부산 해운대구", "code": "26350"}
+  ]
+}
